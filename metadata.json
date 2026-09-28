@@ -1,0 +1,6 @@
+{
+  "name": "Getting Started with R & RStudio Interactive Guide",
+  "description": "An interactive, comprehensive guide to learning R programming and RStudio, featuring hands-on simulation, ggplot2 data visualization, and data wrangling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
